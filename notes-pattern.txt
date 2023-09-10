@@ -1,0 +1,7 @@
+Right Half Pyramid Pattern
+j=i+1
+
+Left Half Pyramid Pattern
+j=2(rows-i)-1
+k=i+1
+
